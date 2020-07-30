@@ -4,7 +4,7 @@ A new Flutter project using MVP Pattern.
 
 ## Getting Started
 
-1 - MVP Deisgn pattern
+1 - MVP Deisgn pattern 
 2 - Networking
         - Modular Approach
         - Independent of libraries from business logic
