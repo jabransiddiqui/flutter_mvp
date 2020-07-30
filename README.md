@@ -18,4 +18,11 @@ A new Flutter project using MVP Pattern.
 1  - Payment page refine for MVP
 
 # Screenshot
+Contact List
+
+[![Simulator-Screen-Shot-i-Phone-X-2020-07-30-at-10-29-35.png](https://i.postimg.cc/3NhGfZSt/Simulator-Screen-Shot-i-Phone-X-2020-07-30-at-10-29-35.png)](https://postimg.cc/Kk94RtyT)
+
+Payment 
+
+[![Simulator-Screen-Shot-i-Phone-X-2020-07-30-at-08-10-45.png](https://i.postimg.cc/0Nf1J5gr/Simulator-Screen-Shot-i-Phone-X-2020-07-30-at-08-10-45.png)](https://postimg.cc/VSdVx8kc)
 
